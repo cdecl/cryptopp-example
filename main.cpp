@@ -4,7 +4,7 @@
 using namespace std;
 
 #include <cryptopp/cryptlib.h>
-#include <cryptopp/Base64.h>
+#include <cryptopp/base64.h>
 #include <cryptopp/aes.h>
 #include <cryptopp/seed.h>
 #include <cryptopp/des.h>
